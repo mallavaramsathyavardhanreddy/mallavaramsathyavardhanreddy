@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi, I'm Sathya Vardhan Reddy 👋
 
-<!--
-**mallavaramsathyavardhanreddy/mallavaramsathyavardhanreddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science Engineering Student
+💻 Currently learning C Programming
+🚀 Interested in Software Development, Technology, and Building Projects
 
-Here are some ideas to get you started:
+🌱 What I'm Learning
+C Programming
+Problem Solving
+Data Structures and Algorithms
+Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 My Goals
+Improve my programming skills every day
+Build real-world projects
+Contribute to open-source projects
+Become a skilled software developer
+
+🛠️ Technologies
+C Programming
+Git & GitHub
+
+
